@@ -13,3 +13,10 @@ Database contains a table called 'zipfiles' with three columns.
 You can use 'num' to get more details about each subtitle by going to the following link:
 https://www.opensubtitles.org/en/subtitles/{num}
 **Replace {num} with Unique Subtitle ID.
+
+Functionalities:
+- Query: "avatar"
+
+This query will search for subtitles containing the word "avatar." You can adjust the query to search for different keywords or phrases based on your interests or specific topics you're looking for. Feel free to modify the query as needed!
+
+UI :
